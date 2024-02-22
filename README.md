@@ -7,15 +7,15 @@
 
 4. 首先尝试直接使用安装器安装:
 
-[Go谷歌安装器](https://www.coolapk.com/apk/com.goplaycn.googleinstall)
+  [Go谷歌安装器](https://www.coolapk.com/apk/com.goplaycn.googleinstall)
 
-[GO谷歌安装器备用](https://www.pgyer.com/pOEI)
+  [GO谷歌安装器备用](https://www.pgyer.com/pOEI)
 
-[SU谷歌安装器](https://www.wandoujia.com/apps/7971105)
+  [SU谷歌安装器](https://www.wandoujia.com/apps/7971105)
 
-[HIGO谷歌安装器](https://www.wandoujia.com/apps/8124836)
+  [HIGO谷歌安装器](https://www.wandoujia.com/apps/8124836)
 
-[OurPlay（原谷歌空间）](https://www.wandoujia.com/apps/7661165)
+  [OurPlay（原谷歌空间）](https://www.wandoujia.com/apps/7661165)
 
 
 ## 1. 安装google服务框架
