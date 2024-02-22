@@ -6,7 +6,11 @@
 3. google play store
 
 4. 首先尝试直接使用安装器安装:
+
 [Go谷歌安装器](https://www.coolapk.com/apk/com.goplaycn.googleinstall)
+
+[GO谷歌安装器备用](https://www.pgyer.com/pOEI)
+
 
 ## 1. 安装google服务框架
 
