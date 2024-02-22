@@ -3,7 +3,7 @@
 # 安卓系统安装谷歌三件套
 1. google服务框架
 2. google play service
-3. 3. google play store
+3. google play store
 
 ### 首先尝试直接使用安装器安装:
 
