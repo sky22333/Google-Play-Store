@@ -1,6 +1,6 @@
 ### 首先您需要科学上网的支持
 
-# 如何安装谷歌三件套
+# 安卓系统安装谷歌三件套
 1. google服务框架
 2. google play service
 3. google play store
