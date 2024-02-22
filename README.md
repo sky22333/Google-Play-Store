@@ -11,6 +11,8 @@
 
 [GO谷歌安装器备用](https://www.pgyer.com/pOEI)
 
+[SU谷歌安装器](https://www.wandoujia.com/apps/7971105)
+
 
 ## 1. 安装google服务框架
 
