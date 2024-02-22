@@ -15,6 +15,8 @@
 
 [HIGO谷歌安装器](https://www.wandoujia.com/apps/8124836)
 
+[OurPlay（原谷歌空间）](https://www.wandoujia.com/apps/7661165)
+
 
 ## 1. 安装google服务框架
 
