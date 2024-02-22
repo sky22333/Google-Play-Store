@@ -12,7 +12,7 @@
 
   [SU谷歌安装器](https://www.wandoujia.com/apps/7971105)
 
-  [HIGO谷歌安装器](https://www.wandoujia.com/apps/8124836)
+  [HIGO谷歌安装器(支持部分华为)](https://www.wandoujia.com/apps/8124836)
 
   [OurPlay(原谷歌空间)](https://www.wandoujia.com/apps/7661165)
 
