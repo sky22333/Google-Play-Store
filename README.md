@@ -6,8 +6,6 @@
 
 ### 首先尝试直接使用安装器安装:
 
-  [Go谷歌安装器](https://www.coolapk.com/apk/com.goplaycn.googleinstall)
-
   [GO谷歌安装器备用](https://www.pgyer.com/pOEI)
 
   [SU谷歌安装器](https://www.wandoujia.com/apps/7971105)
