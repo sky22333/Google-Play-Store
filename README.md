@@ -34,7 +34,7 @@
 
 ## 2. 🔵Google play service
 
-[google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)
+[Google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)
 
 **🔔一定要安装最新版本，选择第一个点击进去**
 
@@ -48,7 +48,7 @@
 
 ## 3. 🔵Google play store
 
-[google play store下载地址](https://www.apkmirror.com/apk/google-inc/google-play-store/)
+[Google play store下载地址](https://www.apkmirror.com/apk/google-inc/google-play-store/)
 
 **🔔All Versions里面选择第一个最新版本就可以了**
 
