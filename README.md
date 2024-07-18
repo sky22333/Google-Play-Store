@@ -26,7 +26,7 @@
 
 **注意一定要选择你的安卓系统版本的服务框架，根据文件名字来找。**
 
-![img](/png/google-play-framework-01.png =300x)
+![img](/png/google-play-framework-01.png)
 
 ![img](/png/google-play-framework-02.png)
 
