@@ -16,6 +16,9 @@
 
 >  [备用链接](https://github.com/sky22333/Google-Play-Store/releases)
 
+>  所有的方法都不行的话就尝试备用方案[GBox虚拟空间](https://gboxlab.com)
+
+
 
   ---
 
