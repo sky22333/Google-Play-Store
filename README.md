@@ -26,7 +26,7 @@
 
 ## 1. 🔵安装Google服务框架
 
-[Google服务框架下载地址](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
+**[Google服务框架下载地址](https://www.apkmirror.com/apk/google-inc/google-services-framework/)**
 
 **🔔注意一定要选择你的安卓系统版本的服务框架，根据文件名字来找。**
 
@@ -36,7 +36,7 @@
 
 ## 2. 🔵Google play service
 
-[Google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)
+**[Google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)**
 
 **🔔一定要安装最新版本，选择第一个点击进去**
 
@@ -50,7 +50,7 @@
 
 ## 3. 🔵Google play store
 
-[Google play store下载地址](https://www.apkmirror.com/apk/google-inc/google-play-store/)
+**[Google play store下载地址](https://www.apkmirror.com/apk/google-inc/google-play-store/)**
 
 **🔔All Versions里面选择第一个最新版本就可以了**
 
