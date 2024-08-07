@@ -14,9 +14,8 @@
 
 >  [OurPlay(原谷歌空间)](https://www.wandoujia.com/apps/7661165)
 
->  [备用链接](https://github.com/sky22333/Google-Play-Store/releases)
+>  [备用下载链接](https://github.com/sky22333/Google-Play-Store/releases)
 
->  所有的方法都不行的话就尝试备用方案[GBox虚拟空间](https://gboxlab.com) 支持华为鸿蒙系统
 
 
 
@@ -56,3 +55,8 @@
 **🔔All Versions里面选择第一个最新版本就可以了**
 
 ![img](/png/google-play-store-01.png)
+
+
+
+
+>  所有的方法都不行的话就尝试备用方案[GBox虚拟空间](https://gboxlab.com) 支持华为鸿蒙系统
