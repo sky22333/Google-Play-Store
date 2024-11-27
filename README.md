@@ -68,6 +68,6 @@
 <img src="/png/google-play-store-01.png" width="80%" />
 
 
-
+---
 
 >  所有的方法都不行的话还可以尝试备用方案[GBox虚拟空间](https://gboxlab.com) 支持华为鸿蒙系统
