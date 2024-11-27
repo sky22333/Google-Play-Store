@@ -1,8 +1,8 @@
 
 # 安卓系统安装谷歌三件套
-1. Google服务框架
-2. Google play service
-3. Google play store
+- Google服务框架
+- Google play service
+- Google play store
 
 ### 首先尝试直接使用安装器安装:
 
@@ -25,14 +25,19 @@
 
 - APKPure：https://apkpure.com/cn
 
-  ---
+
+---
 
 
-## 下列方法需要科学上网的支持
 
-## 1. 🔵安装Google服务框架
 
-**[Google服务框架下载地址](https://www.apkmirror.com/apk/google-inc/google-services-framework/)**
+> [!TIP]
+> 下列方法需要科学上网的支持
+
+
+### 🔵安装Google服务框架
+
+[Google服务框架下载地址](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
 
 **🔔注意一定要选择你的安卓系统版本的服务框架，根据文件名字来找。**
 
@@ -40,9 +45,9 @@
 
 <img src="/png/google-play-framework-02.png" width="80%" />
 
-## 2. 🔵Google play service
+### 🔵Google play service
 
-**[Google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)**
+[Google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)
 
 **🔔一定要安装最新版本，选择第一个点击进去**
 
@@ -54,9 +59,9 @@
 
 <img src="/png/google-play-service-03.png" width="80%" />
 
-## 3. 🔵Google play store
+### 🔵Google play store
 
-**[Google play store下载地址](https://www.apkmirror.com/apk/google-inc/google-play-store/)**
+[Google play store下载地址](https://www.apkmirror.com/apk/google-inc/google-play-store/)
 
 **🔔All Versions里面选择第一个最新版本就可以了**
 
