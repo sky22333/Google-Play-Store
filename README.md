@@ -6,18 +6,24 @@
 
 ### 首先尝试直接使用安装器安装:
 
->  [GO谷歌安装器](https://www.pgyer.com/pOEI)
+-  [GO谷歌安装器](https://www.pgyer.com/pOEI)
 
->  [SU谷歌安装器](https://www.wandoujia.com/apps/7971105)
+-  [SU谷歌安装器](https://www.wandoujia.com/apps/7971105)
 
->  [HIGO谷歌安装器(支持部分华为)](https://www.wandoujia.com/apps/8124836)
+-  [HIGO谷歌安装器(支持部分华为)](https://www.wandoujia.com/apps/8124836)
 
->  [OurPlay(原谷歌空间)](https://www.wandoujia.com/apps/7661165)
+-  [OurPlay(原谷歌空间)](https://www.wandoujia.com/apps/7661165)
 
->  [备用下载链接](https://github.com/sky22333/Google-Play-Store/releases)
+-  [备用下载链接](https://github.com/sky22333/Google-Play-Store/releases)
 
 
 
+
+### 替代方案
+
+- APKMirror：https://www.apkmirror.com
+
+- APKPure：https://apkpure.com/cn
 
   ---
 
