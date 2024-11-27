@@ -4,7 +4,7 @@
 - Google play service
 - Google play store
 
-### 首先尝试直接使用安装器安装
+### 首先尝试直接使用谷歌安装器安装
 
 -  [GO谷歌安装器](https://www.pgyer.com/pOEI)
 
