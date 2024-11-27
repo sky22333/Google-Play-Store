@@ -36,9 +36,9 @@
 
 **🔔注意一定要选择你的安卓系统版本的服务框架，根据文件名字来找。**
 
-![img](/png/google-play-framework-01.png)
+<img src="/png/google-play-framework-01.png" width="500" />
 
-![img](/png/google-play-framework-02.png)
+<img src="/png/google-play-framework-02.png" width="500" />
 
 ## 2. 🔵Google play service
 
@@ -46,13 +46,13 @@
 
 **🔔一定要安装最新版本，选择第一个点击进去**
 
-![img](/png/google-play-service-01.png)
+<img src="/png/google-play-service-01.png" width="500" />
 
 **🔔注意一定要选择你的系统版本的下载，DPI也需要符合**
 
-![img](/png/google-play-service-02.png)
+<img src="/png/google-play-service-02.png" width="500" />
 
-![img](/png/google-play-service-03.png)
+<img src="/png/google-play-service-03.png" width="500" />
 
 ## 3. 🔵Google play store
 
@@ -60,7 +60,7 @@
 
 **🔔All Versions里面选择第一个最新版本就可以了**
 
-![img](/png/google-play-store-01.png)
+<img src="/png/google-play-store-01.png" width="500" />
 
 
 
