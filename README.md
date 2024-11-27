@@ -17,15 +17,6 @@
 -  [备用下载链接](https://github.com/sky22333/Google-Play-Store/releases)
 
 
-
-
-### 替代方案（可信的第三方APK商店）
-
-- [APKMirror](https://www.apkmirror.com)
-
-- [APKPure](https://apkpure.com/cn)
-
-
 ---
 
 
@@ -71,3 +62,9 @@
 ---
 
 >  所有的方法都不行的话还可以尝试备用方案[GBox虚拟空间](https://gboxlab.com) 支持华为鸿蒙系统
+
+#### 替代方案（可信的第三方APK商店）
+
+- [APKMirror](https://www.apkmirror.com)
+
+- [APKPure](https://apkpure.com/cn)
