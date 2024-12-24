@@ -42,11 +42,7 @@
 
 [Google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)
 
-**🔔一定要安装最新版本，选择第一个点击进去**
-
-<img src="/png/google-play-service-01.jpg" width="80%" />
-
-**🔔注意一定要选择你的系统版本的下载，DPI也需要符合**
+**🔔安装最新版本，注意一定要选择你的系统版本的下载，DPI也需要符合**
 
 <img src="/png/google-play-service-02.jpg" width="80%" />
 
