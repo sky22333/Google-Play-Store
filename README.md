@@ -56,7 +56,9 @@
 
 **🔔All Versions里面选择第一个最新版本就可以了**
 
-<img src="/png/google-play-store-01.png" width="80%" />
+<img src="/png/google-play-store-01.jpg" width="80%" />
+
+<img src="/png/google-play-store-02.jpg" width="80%" />
 
 
 ---
