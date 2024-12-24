@@ -44,11 +44,11 @@
 
 **🔔注意一定要选择你的系统版本的下载，DPI也需要符合，点进去后下载最新版本**
 
+<img src="/png/google-play-service-01.jpg" width="80%" />
+
 <img src="/png/google-play-service-02.jpg" width="80%" />
 
 <img src="/png/google-play-service-03.jpg" width="80%" />
-
-<img src="/png/google-play-service-04.jpg" width="80%" />
 
 ### 🔵Google play store
 
