@@ -26,11 +26,11 @@
 > 下列方法需要科学上网的支持
 
 
-### 🔵安装Google服务框架
+## 1：安装Google服务框架
 
 [Google服务框架下载地址](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
 
-**🔔注意一定要选择你的安卓系统版本的服务框架，根据文件名字来找。**
+### 🔔注意一定要选择你的安卓系统版本的服务框架，根据文件名字来找。
 
 <img src="/png/google-play-framework-1.jpg" width="80%" />
 
@@ -48,11 +48,13 @@
 
 <img src="/png/google-play-framework-3.jpg" width="80%" />
 
-### 🔵Google play service
+---
+
+## 2：安装Google play service
 
 [Google play service下载地址](https://www.apkmirror.com/apk/google-inc/google-play-services/)
 
-**🔔注意一定要选择你的系统版本的下载，DPI也需要符合，点进去后下载最新版本**
+### 🔔注意一定要选择你的系统版本的下载，DPI也需要符合，点进去后下载最新版本
 
 <img src="/png/google-play-service-01.jpg" width="80%" />
 
@@ -70,11 +72,14 @@
 
 <img src="/png/google-play-service-03.jpg" width="80%" />
 
-### 🔵Google play store
+
+---
+
+##  3：安装Google play store
 
 [Google play store下载地址](https://www.apkmirror.com/apk/google-inc/google-play-store/)
 
-**🔔All Versions里面选择第一个最新版本就可以了**
+### 🔔All Versions里面选择第一个最新版本就可以了
 
 <img src="/png/google-play-store-01.jpg" width="80%" />
 
