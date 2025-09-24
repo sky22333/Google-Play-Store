@@ -19,23 +19,24 @@
 
 ### 小米手机自带谷歌套件，可直接启用
 
-- 打开`设置`，搜索`谷歌`，启用`谷歌基础服务`
+1：打开`设置`，搜索`谷歌`，启用`谷歌基础服务`
 
 <div style="display:inline-block">
-<img src="xiaomi/1.jpg" alt="1.jpg" width="200">
-<img src="xiaomi/2.jpg" alt="2.jpg" width="200">
+<img src="xiaomi/1.jpg" alt="1.jpg" width="300">
+<img src="xiaomi/2.jpg" alt="2.jpg" width="300">
 </div>
 
+<br>
 
-- 打开小米`应用商店`，搜索`google play`，安装`Google Play 商店`
+2：打开小米`应用商店`，搜索`google play`，安装`Google Play 商店`
 
-<img src="xiaomi/3.jpg" alt="3.jpg" width="200">
+<img src="xiaomi/3.jpg" alt="3.jpg" width="300">
 
 ---
 
 
 > [!TIP]
-> 下列方法需要科学上网的支持
+> 下列通用方法 需要科学上网的支持
 
 
 ## 1：安装Google服务框架
