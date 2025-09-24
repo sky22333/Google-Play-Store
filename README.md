@@ -17,9 +17,21 @@
 -  [备用下载链接](https://github.com/sky22333/Google-Play-Store/releases)
 
 
+### 小米手机自带谷歌套件，可直接启用
+
+- 打开`设置`，搜索`谷歌`，启用`谷歌基础服务`
+
+<div style="display:inline-block">
+<img src="xiaomi/1.jpg" alt="1.jpg" width="200">
+<img src="xiaomi/2.jpg" alt="2.jpg" width="200">
+</div>
+
+
+- 打开小米`应用商店`，搜索`google play`，安装`Google Play 商店`
+
+<img src="xiaomi/3.jpg" alt="3.jpg" width="200">
+
 ---
-
-
 
 
 > [!TIP]
