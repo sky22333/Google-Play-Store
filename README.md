@@ -85,7 +85,7 @@
 
 >  所有的方法都不行的话还可以尝试备用方案[GBox虚拟空间](https://gboxlab.com) 支持华为鸿蒙系统
 
-#### 替代方案（可信的第三方APK商店）
+#### 替代方案（主流第三方APK商店）
 
 - [APKMirror](https://www.apkmirror.com)
 
