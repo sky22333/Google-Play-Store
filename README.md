@@ -14,7 +14,9 @@
 -  [备用下载链接](https://github.com/sky22333/Google-Play-Store/releases)
 
 
-### 小米和红米手机自带谷歌套件，可直接启用
+### 小米，红米，一加等手机自带谷歌套件，可直接启用
+
+[参考列表](https://storage.googleapis.com/play_public/supported_devices.html)
 
 1：打开`设置`，搜索`谷歌`，启用`谷歌基础服务`
 
