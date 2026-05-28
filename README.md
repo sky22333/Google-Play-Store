@@ -13,7 +13,6 @@
 com.google.android.gsf
 com.google.android.gms
 com.android.vending
-com.google.android.gsf.login
 ```
 ---
 
