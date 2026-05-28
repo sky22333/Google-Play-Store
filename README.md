@@ -8,7 +8,7 @@
 * Google Play Services
 * Google Play Store
 
-相关包名：
+相关包名（小白不用看）：
 ```
 com.google.android.gsf
 com.google.android.gms
