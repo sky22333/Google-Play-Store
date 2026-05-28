@@ -8,6 +8,13 @@
 * Google Play Services
 * Google Play Store
 
+相关包名：
+```
+com.google.android.gsf
+com.google.android.gms
+com.android.vending
+com.google.android.gsf.login
+```
 ---
 
 # 优先尝试：谷歌安装器
